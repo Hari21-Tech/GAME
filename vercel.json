@@ -25,5 +25,5 @@
       ]
     }
   ],
-  "buildCommand": "git lfs install && git lfs pull && npm run build"
+  "buildCommand": "git lfs install && git lfs pull"
 }
