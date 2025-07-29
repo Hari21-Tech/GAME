@@ -25,5 +25,5 @@
       ]
     }
   ],
-  "buildCommand": "git lfs install && git lfs pull"
+  "buildCommand": "git lfs install"
 }
