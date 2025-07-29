@@ -27,3 +27,4 @@
   ],
   "buildCommand": "git lfs install && git lfs pull"
 }
+
