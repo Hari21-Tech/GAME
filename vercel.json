@@ -24,7 +24,6 @@
         { "key": "Cache-Control", "value": "no-store" }
       ]
     }
-  ],
-  "buildCommand": "git lfs install && git lfs pull"
+  ]
 }
 
